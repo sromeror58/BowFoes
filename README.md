@@ -126,6 +126,6 @@ Load all the elements of the scene including the archers and background, if we c
 Implement different scenes for different scenarios and if implementing a button to continue to the next scene, we can use user-input through the terminal.
 For moving platforms, only focus on linear movement at a slow speed if running into issues with hit registration. 
 
-
+URL to game after cloning and calling "make game" in terminal: http://labradoodle.caltech.edu:8167/bin/
 
 
